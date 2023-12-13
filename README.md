@@ -5,6 +5,7 @@ This tool combines the [Neo4j Vector search](https://neo4j.com/docs/cypher-manua
 ## Getting started
 The code itself is working for the example below, but it is in a WIP state.
 You can create your own binaries by invoking `./mvnw package`.
+For creating native images, it is required to run the build process with a Graal JVM.
 
 ## Common usage
 The most common workflow would be to create embeddings first and then query those embeddings with search phrases.
