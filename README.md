@@ -55,6 +55,8 @@ Labels                        Properties                                        
 [Game]                        [name=Deep Sea Tycoon: Diver\'s Paradise]                                                                               0.88546705
 ```
 
+![neo4j-vector-cli in action](docs/vector_cli.gif)
+
 ## Configuration
 You can create a property file named `~/.neo4j-vector-cli.properties` containing the configuration:
 
